@@ -11,8 +11,7 @@ At weather-corp, we're excited about providing users with the latest and greates
 We need our weather application to:
 
 - Display weather information for today: date, city name, current temperature, description of current conditions, wind speed, wind direction, UV, humidity
-- Display a forecast for the next 3 days: date, average temperature, minimum temperature, maximum temperature
 
 Fortunately, the engineer who previously worked on the application had already written the code to retrieve the weather data for you from the [Weather API](https://www.weatherapi.com/). You can find that code [here](./src/api.ts).
 
-You can see a wireframe reference in (INSERT PATH TO WIREFRAME HERE) for some inspiration for how things work.
+You can see a [rough design](./Design.png) for some inspiration for how things work.
