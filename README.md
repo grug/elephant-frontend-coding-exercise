@@ -2,7 +2,7 @@
 
 Hi there, this our coding exercise we're going to do today.
 
-It's not expected that we'll get through everything - we just want to use this exercise to start a conversation :)
+**It's not expected that we'll get through everything - we just want to use this exercise to start a conversation :)**
 
 ## The task
 
@@ -10,8 +10,8 @@ At weather-corp, we're excited about providing users with the latest and greates
 
 We need our weather application to:
 
-- Display weather information for today
-- Display a forecast for the next 5 days
+- Display weather information for today: date, city name, current temperature, description of current conditions, wind speed, wind direction, UV, humidity
+- Display a forecast for the next 3 days: date, average temperature, minimum temperature, maximum temperature
 
 Fortunately, the engineer who previously worked on the application had already written the code to retrieve the weather data for you from the [Weather API](https://www.weatherapi.com/). You can find that code [here](./src/api.ts).
 

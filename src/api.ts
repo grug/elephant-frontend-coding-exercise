@@ -8,4 +8,12 @@ const getTodaysWeather = async () => {
   return await response.json();
 };
 
-export { getTodaysWeather };
+const getFiveDayForecast = async () => {
+  const response = await fetch(
+    `https://api.weatherapi.com/v1/forecast.json?key=${API_KEY}&q=London&days=5&aqi=no&alerts=no`
+  );
+
+  return await response.json();
+};
+
+export { getTodaysWeather, getFiveDayForecast };
