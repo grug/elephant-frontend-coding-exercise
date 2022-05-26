@@ -6,7 +6,7 @@ Hi there, this our coding exercise we're going to do today.
 
 ## The task
 
-At weather-corp, we're excited about providing users with the latest and greatest London weather information through our amazing web application. The problem is that our only engineer working on the site has left and we now need you to help us complete it.
+At Weather-Corp, we're excited about providing users with the latest and greatest London weather information through our amazing web application. The problem is that our only engineer working on the site has left and we now need you to help us complete it.
 
 We need our weather application to:
 
